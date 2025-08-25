@@ -144,7 +144,7 @@
                                     <img src="<?php echo esc_url($slide_image['url']); ?>"
                                         class="d-block w-100"
                                         alt="<?php echo esc_attr($slide_image['alt']); ?>"
-                                        style="height: 400px; object-fit: cover;">
+                                        style="object-fit: cover;">
 
                                     <?php if ($slide_link): ?>
                                     </a>
@@ -179,7 +179,7 @@
                 </button>
             </div>
         <?php endif; ?>
-        <?php if (!have_rows('field_689e87278e25c')): ?>
+        <?php if (!have_rows('field_689e8d029bff6')): ?>
             <?php if (has_post_thumbnail()) { ?>
                 <div class="pd-thumb">
                     <?php the_post_thumbnail('large', array('class' => 'img-fluid')); ?>
@@ -441,7 +441,7 @@
                                     <img src="<?php echo esc_url($image['url']); ?>"
                                         class="d-block w-100"
                                         alt="<?php echo esc_attr($image['alt']); ?>"
-                                        style="height: 400px; object-fit: cover;">
+                                        style=" object-fit: cover;">
 
                                     <?php if ($image['caption']): ?>
                                         <div class="carousel-caption d-none d-md-block">
