@@ -107,12 +107,7 @@ get_header(); ?>
                                             </h3>
                                         <?php } ?>
                                         <div class="p-card-bottom">
-                                            <div class="book-btn">
-                                                <a href="<?php the_permalink(); ?>">
-                                                    <?php Egns_Helpers::turio_translate_with_escape_('Book Now') ?>
-                                                    <i class='bx bxs-right-arrow-alt'></i>
-                                                </a>
-                                            </div>
+                                         
                                             <?php if (!empty(Egns_Helpers::turio_package_info('tp_price'))) { ?>
                                                 <div class="p-card-info">
                                                     <?php if (!empty(Egns_Helpers::turio_package_info('tp_range_price'))) { ?>
