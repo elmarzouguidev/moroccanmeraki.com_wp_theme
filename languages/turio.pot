@@ -1,0 +1,2476 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-19 19:23+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: comments.php:32
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:32
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:67
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:68 includes/turio-template-tags.php:24
+#: includes/turio-template-tags.php:70
+msgid "Comment"
+msgstr ""
+
+#: comments.php:68
+msgid "Share a Comment here"
+msgstr ""
+
+#: comments.php:71
+#: includes/theme-options/options/tour-packages/tour-package.php:327
+#: woocommerce/single-product-reviews.php:94
+msgid "Name"
+msgstr ""
+
+#: comments.php:72 includes/theme-options/options/pages/tour-enquiries.php:28
+msgid "Full Name"
+msgstr ""
+
+#: comments.php:74 woocommerce/single-product-reviews.php:100
+msgid "Email"
+msgstr ""
+
+#: comments.php:75
+msgid "Email Here"
+msgstr ""
+
+#: comments.php:77
+msgid "Website"
+msgstr ""
+
+#: comments.php:77
+msgid "Website(optional)"
+msgstr ""
+
+#: comments.php:80 template-parts/tour/enquiries.php:56
+#: template-parts/tour/review-rating.php:117
+msgid "Submit Now"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgid "SEAECH"
+msgstr ""
+
+#: taxonomy-turio-package-destination.php:62
+msgid "Map"
+msgstr ""
+
+#: taxonomy-turio-package-destination.php:70
+msgid "Tour package"
+msgstr ""
+
+#: includes/class-turio-helper.php:541 includes/class-turio-helper.php:552
+#: includes/class-turio-helper.php:680 includes/functions/breadcrumb.php:222
+#: loop-templates/content-single-package.php:33
+#: loop-templates/content-single-package.php:87
+#: loop-templates/content-single-package.php:162
+#: loop-templates/content-single-package.php:165
+#: loop-templates/content-single-package.php:174
+#: template-parts/common/category-bar.php:34
+#: template-parts/common/search-bar.php:70
+#: template-parts/tour/tour-booking.php:7
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/class-turio-helper.php:904
+msgid "Set Menu Here..."
+msgstr ""
+
+#: includes/turio-template-tags.php:15
+msgid "By"
+msgstr ""
+
+#: includes/turio-template-tags.php:67
+msgid "by"
+msgstr ""
+
+#: includes/turio-template-tags.php:238
+msgid "<p>"
+msgstr ""
+
+#: includes/functions/breadcrumb.php:114
+msgid "Search"
+msgstr ""
+
+#: includes/functions/breadcrumb.php:119
+msgid "404"
+msgstr ""
+
+#: includes/functions/comment.php:16
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/functions/theme-setup.php:66
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/functions/theme-setup.php:139
+msgid "Mobile Logo"
+msgstr ""
+
+#: includes/functions/widgets.php:6
+#: includes/theme-options/options/settings/woocommerce/woocommerce.php:25
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/functions/widgets.php:8
+msgid "Shop Archive & details page"
+msgstr ""
+
+#: includes/functions/widgets.php:15
+msgid "Tour Package Single "
+msgstr ""
+
+#: includes/functions/widgets.php:24
+msgid "Tour Package List"
+msgstr ""
+
+#: includes/functions/widgets.php:33
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/functions/widgets.php:35
+msgid "Blog index page"
+msgstr ""
+
+#: includes/functions/widgets.php:43
+msgid "Single Page"
+msgstr ""
+
+#: includes/functions/widgets.php:45
+msgid "Blog single page sidebar"
+msgstr ""
+
+#: includes/functions/widgets.php:53
+msgid "Footer 1"
+msgstr ""
+
+#: includes/functions/widgets.php:62
+msgid "Footer 2"
+msgstr ""
+
+#: includes/functions/widgets.php:71
+msgid "Footer 3"
+msgstr ""
+
+#: includes/functions/widgets.php:80
+msgid "Footer 4"
+msgstr ""
+
+#: includes/functions/woocommerce.php:21
+#, php-format
+msgid "Children Price (%s)"
+msgstr ""
+
+#: includes/functions/woocommerce.php:82
+msgid "Check In"
+msgstr ""
+
+#: includes/functions/woocommerce.php:89
+msgid "Check Out"
+msgstr ""
+
+#: includes/functions/woocommerce.php:112
+msgid "Adult: "
+msgstr ""
+
+#: includes/functions/woocommerce.php:122
+msgid "Children: "
+msgstr ""
+
+#: includes/functions/woocommerce.php:137
+msgid "Other Extra Services"
+msgstr ""
+
+#: includes/functions/woocommerce.php:157
+msgid "Custom Date"
+msgstr ""
+
+#: includes/functions/woocommerce.php:172
+msgid "Total Price"
+msgstr ""
+
+#: includes/functions/woocommerce.php:262
+msgid "Adult Person"
+msgstr ""
+
+#: includes/functions/woocommerce.php:269
+msgid "Children Person"
+msgstr ""
+
+#: includes/functions/woocommerce.php:277
+msgid "Travel Date"
+msgstr ""
+
+#: includes/functions/woocommerce.php:294
+msgid "Extra Services"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:393
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:909
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2615
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3661
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:394
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3241
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:395
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3034
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:1016
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:1016
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:1019
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:1203
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3030
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2355
+msgid "Required"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2358
+msgid "Recommended"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2374
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2377
+msgid "External Source"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2380
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2397
+msgid "Not Installed"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2401
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2403
+msgid "Active"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2409
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2412
+msgid "Requires Update"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2415
+msgid "Update recommended"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2424
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2470
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2474
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2478
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2482
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2564
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2572
+msgid "Installed version:"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2580
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2592
+msgid "Available version:"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2615
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2629
+msgid "Plugin"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2630
+msgid "Source"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2631
+msgid "Type"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2635
+msgid "Version"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2636
+msgid "Status"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2685
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2690
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2766
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2799
+msgid "Install"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2805
+msgid "Update"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2808
+msgid "Activate"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2839
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2841
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2882
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2884
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:2990
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3016
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3240
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3580
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3585
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3589
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3591
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3592
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3597
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3600
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/plugins/tgma/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/theme-options/options/theme-options.php:29
+#, php-format
+msgid "- Version %s"
+msgstr ""
+
+#: includes/theme-options/options/theme-options.php:32
+msgid "BY"
+msgstr ""
+
+#: includes/theme-options/options/theme-options.php:40
+#, php-format
+msgid "%1$s WordPress Theme %2$s %3$s"
+msgstr ""
+
+#: includes/theme-options/options/theme-options.php:46
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#: includes/theme-options/options/theme-options.php:74
+#, php-format
+msgid "Credited by %s"
+msgstr ""
+
+#: includes/theme-options/options/theme-options.php:75
+#, php-format
+msgid "Made with love by %s"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-breadcrumb.php:9
+#: includes/theme-options/options/settings/breadcrumbs/breadcrumbs.php:8
+#: includes/theme-options/options/settings/breadcrumbs/breadcrumbs.php:18
+#: includes/theme-options/options/tour-packages/tour-package.php:26
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-breadcrumb.php:14
+#: includes/theme-options/options/post/breadcrumb.php:30
+#: includes/theme-options/options/settings/breadcrumbs/breadcrumbs.php:14
+#: includes/theme-options/options/tour-packages/tour-package.php:33
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-breadcrumb.php:19
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-breadcrumb.php:20
+msgid ""
+"If you want to show or hide page banner you can set here by toggle ( YES / "
+"NO )."
+msgstr ""
+
+#: includes/theme-options/options/pages/page-breadcrumb.php:26
+#: includes/theme-options/options/post/breadcrumb.php:35
+#: includes/theme-options/options/settings/breadcrumbs/breadcrumbs.php:54
+#: includes/theme-options/options/tour-packages/tour-package.php:38
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-breadcrumb.php:27
+#: includes/theme-options/options/post/breadcrumb.php:36
+#: includes/theme-options/options/settings/breadcrumbs/breadcrumbs.php:55
+#: includes/theme-options/options/settings/breadcrumbs/breadcrumbs.php:68
+#: includes/theme-options/options/tour-packages/tour-package.php:39
+msgid "Set the banner background attachment"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-css.php:8
+#: includes/theme-options/options/settings/custom-scripts/custom_css.php:8
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-css.php:13
+msgid "Page Custom Css"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-css.php:18
+msgid ""
+"Write custom css here with css selector. this css will be applied in this "
+"page."
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:8
+msgid "Page Footer"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:14
+msgid "Page Footer Options"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:19
+msgid "Enable Footer"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:20
+msgid "If you want to show the footer you can set here by ( YES / NO )."
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:26
+msgid "Custom Footer Styling"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:27
+msgid "If you need custom style in page footer you can style here."
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:32
+msgid "Footer Background & Overlay"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:38
+msgid "Enable Contact Area"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:39
+msgid ""
+"If you want do not show the contact area you can set here by ( YES / NO )."
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:46
+msgid "Enable Copyright Area"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:47
+msgid "If you want do not show the copyright you can set here by ( YES / NO )."
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:53
+msgid "Footer Link Color"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:59
+msgid "Footer links color"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:60
+msgid "Set the footer area link color & hover color."
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:75
+msgid "Spacing"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:82
+msgid "Footer Contact Spacing"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:83
+msgid "Set the space ( top / bottom ) in footer contact."
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:98
+msgid "Footer Copyright Spacing"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-footer.php:99
+msgid "Set the space ( top / bottom ) in footer copyright."
+msgstr ""
+
+#: includes/theme-options/options/pages/page-header.php:8
+msgid "Header"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-header.php:13
+msgid "Menu Style"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-header.php:32
+msgid "Upload Logo(Header One)"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-header.php:37
+#: includes/theme-options/options/pages/page-header.php:74
+#: includes/theme-options/options/pages/page-header.php:110
+#: includes/theme-options/options/settings/header/logo.php:19
+msgid "Upload  Logo"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-header.php:39
+#: includes/theme-options/options/pages/page-header.php:76
+#: includes/theme-options/options/pages/page-header.php:112
+msgid "you can upload <mark> Logo</mark> for header"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-header.php:52
+#: includes/theme-options/options/pages/page-header.php:89
+#: includes/theme-options/options/pages/page-header.php:125
+#: includes/theme-options/options/settings/header/logo.php:35
+msgid "Upload Mobile Logo"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-header.php:54
+#: includes/theme-options/options/pages/page-header.php:91
+#: includes/theme-options/options/pages/page-header.php:127
+#: includes/theme-options/options/settings/header/logo.php:37
+msgid "you can upload <mark>Mobile Logo</mark> for header"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-header.php:69
+msgid "Upload Logo(Header Two)"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-header.php:105
+msgid "Upload Logo(Header Three)"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-topbar.php:8
+msgid "Top Bar"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-topbar.php:14
+msgid "Topbar"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-topbar.php:19
+msgid "Enable Topbar"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-topbar.php:20
+msgid "If you want to Disable topbar you can set ( YES / NO )"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-topbar.php:28
+msgid "Enable Contact Info"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-topbar.php:29
+msgid "If you want to enable or enable Contact Info you can set ( YES / NO )"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-topbar.php:36
+#: includes/theme-options/options/settings/header/top_bar_options.php:65
+msgid "Enable Promotion Title"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-topbar.php:37
+msgid "If you want to Disable Promotion title you can set ( YES / NO )"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-topbar.php:44
+msgid "Enable Social Icon"
+msgstr ""
+
+#: includes/theme-options/options/pages/page-topbar.php:45
+msgid "If you want to enable or enable topbar you can set ( YES / NO )"
+msgstr ""
+
+#: includes/theme-options/options/pages/page.php:13
+msgid "Page Settings"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:11
+msgid "Review & Rating Meta"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:17
+msgid "Review & Rating Data"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:24
+msgid "Approve"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:25
+msgid "Unapprove"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:32
+msgid "User ID"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:38
+msgid "Review Title"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:44
+msgid "Tour URL"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:50
+msgid "Tour Title"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:56
+msgid "User Name"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:62
+msgid "User Phone"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:68
+#: template-parts/tour/review-rating.php:82
+msgid "Review Message"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:75
+msgid "Review Rating"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:81
+msgid "Criteria"
+msgstr ""
+
+#: includes/theme-options/options/pages/review-rating.php:87
+msgid "Rating"
+msgstr ""
+
+#: includes/theme-options/options/pages/tour-enquiries.php:11
+msgid "Enquiries Meta"
+msgstr ""
+
+#: includes/theme-options/options/pages/tour-enquiries.php:17
+msgid "Enquiries Data"
+msgstr ""
+
+#: includes/theme-options/options/pages/tour-enquiries.php:22
+msgid "Tour Package ID"
+msgstr ""
+
+#: includes/theme-options/options/pages/tour-enquiries.php:34
+#: includes/theme-options/options/settings/header/top_bar_options.php:49
+msgid "Email Address"
+msgstr ""
+
+#: includes/theme-options/options/pages/tour-enquiries.php:40
+msgid "Phone"
+msgstr ""
+
+#: includes/theme-options/options/pages/tour-enquiries.php:46
+#: template-parts/tour/enquiries.php:34
+msgid "People"
+msgstr ""
+
+#: includes/theme-options/options/pages/tour-enquiries.php:52
+msgid "Number of Tickets"
+msgstr ""
+
+#: includes/theme-options/options/pages/tour-enquiries.php:58
+msgid "Enquiry"
+msgstr ""
+
+#: includes/theme-options/options/post/audio.php:13
+#: includes/theme-options/options/post/breadcrumb.php:14
+#: includes/theme-options/options/post/gallery.php:13
+#: includes/theme-options/options/post/image.php:13
+#: includes/theme-options/options/post/quote.php:9
+#: includes/theme-options/options/post/video.php:13
+msgid "Post Settings"
+msgstr ""
+
+#: includes/theme-options/options/post/audio.php:30
+msgid "Audio Post Setting"
+msgstr ""
+
+#: includes/theme-options/options/post/audio.php:35
+msgid "Audio Url"
+msgstr ""
+
+#: includes/theme-options/options/post/audio.php:36
+msgid ""
+"Paste here a valid audio url which is support auto embed with WordPress for "
+"post audio player preview."
+msgstr ""
+
+#: includes/theme-options/options/post/gallery.php:30
+msgid "Gallery Post Setting"
+msgstr ""
+
+#: includes/theme-options/options/post/gallery.php:35
+msgid "Add Gallery Images"
+msgstr ""
+
+#: includes/theme-options/options/post/gallery.php:36
+msgid "Please Upload Or Select Images From Media Library."
+msgstr ""
+
+#: includes/theme-options/options/post/gallery.php:37
+#: includes/theme-options/options/post/image.php:37
+#: includes/theme-options/options/tour-packages/tour-package.php:235
+msgid "Add Images"
+msgstr ""
+
+#: includes/theme-options/options/post/gallery.php:38
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/theme-options/options/post/gallery.php:39
+#: includes/theme-options/options/post/image.php:39
+#: includes/theme-options/options/tour-packages/tour-package.php:237
+msgid "Remove Images"
+msgstr ""
+
+#: includes/theme-options/options/post/image.php:30
+msgid "Image Post Setting"
+msgstr ""
+
+#: includes/theme-options/options/post/image.php:35
+msgid "Add Image Images"
+msgstr ""
+
+#: includes/theme-options/options/post/image.php:36
+msgid "Select Images For Image Post Format."
+msgstr ""
+
+#: includes/theme-options/options/post/image.php:38
+msgid "Edit Image"
+msgstr ""
+
+#: includes/theme-options/options/post/quote.php:24
+msgid "Quote Post Setting"
+msgstr ""
+
+#: includes/theme-options/options/post/quote.php:29
+msgid "Quote Text"
+msgstr ""
+
+#: includes/theme-options/options/post/quote.php:30
+msgid ""
+"Paste here a valid quote text which is support auto embed with WordPress for "
+"post quote."
+msgstr ""
+
+#: includes/theme-options/options/post/video.php:30
+msgid "Video Post Setting"
+msgstr ""
+
+#: includes/theme-options/options/post/video.php:35
+msgid "Video Url"
+msgstr ""
+
+#: includes/theme-options/options/post/video.php:36
+msgid ""
+"Paste here a valid video url which is support auto embed with WordPress for "
+"post audio player preview."
+msgstr ""
+
+#: includes/theme-options/options/settings/settings.php:20
+msgid "Turio Options"
+msgstr ""
+
+#: includes/theme-options/options/settings/settings.php:32
+msgid ""
+"Turio <small> - Version 1.5.0 BY </small><small><a  href=\"https://"
+"themeforest.net/user/egenslab\" target=\"_blank\">Egenslab</a></small>"
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:9
+msgid "404 Page"
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:14
+msgid "404 Page Options"
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:19
+#: includes/theme-options/options/settings/blog/single_blog.php:15
+#: includes/theme-options/options/tour-packages/tour-package.php:199
+msgid "Title"
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:21
+msgid "you can change <mark>title</mark> of 404 page"
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:22
+msgid "That Page Are Not Found!"
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:27
+msgid "Image"
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:32
+#: includes/theme-options/options/settings/blog/single_blog.php:33
+#: includes/theme-options/options/tour-packages/tour-package.php:209
+msgid "Description"
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:34
+msgid "you can change <mark>sub title</mark> of 404 page"
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:35
+msgid ""
+"It looks like you've reached a URL that doesn’t exist. Please use the "
+"navigation above or search below to find your way back to our amazing "
+"website."
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:39
+msgid "Button Text"
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:41
+msgid "you can change <mark>button text</mark> of 404 page"
+msgstr ""
+
+#: includes/theme-options/options/settings/404/page.php:42
+msgid "Go To Home"
+msgstr ""
+
+#: includes/theme-options/options/settings/backup/backup.php:9
+msgid "Import / Export"
+msgstr ""
+
+#: includes/theme-options/options/settings/backup/backup.php:15
+msgid "You can save your current options. Download a Backup and Import."
+msgstr ""
+
+#: includes/theme-options/options/settings/backup/backup.php:19
+msgid "Backup & Import"
+msgstr ""
+
+#: includes/theme-options/options/settings/blog/blog.php:8
+msgid "Blog Settings"
+msgstr ""
+
+#: includes/theme-options/options/settings/blog/blog_list.php:8
+msgid "Blog Post"
+msgstr ""
+
+#: includes/theme-options/options/settings/blog/blog_list.php:13
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/theme-options/options/settings/blog/blog_list.php:21
+msgid "you can set <mark>blog layout design</mark> from blog page"
+msgstr ""
+
+#: includes/theme-options/options/settings/blog/blog_list.php:26
+msgid "Blog Title"
+msgstr ""
+
+#: includes/theme-options/options/settings/blog/blog_list.php:40
+msgid "Blog Description"
+msgstr ""
+
+#: includes/theme-options/options/settings/blog/single_blog.php:9
+msgid "Single Post"
+msgstr ""
+
+#: includes/theme-options/options/settings/breadcrumbs/breadcrumbs.php:20
+msgid "you can set <mark>Yes / No</mark> to show/hide breadcrumb"
+msgstr ""
+
+#: includes/theme-options/options/settings/breadcrumbs/breadcrumbs.php:26
+msgid "Title Typography"
+msgstr ""
+
+#: includes/theme-options/options/settings/breadcrumbs/breadcrumbs.php:40
+msgid "Link Typography"
+msgstr ""
+
+#: includes/theme-options/options/settings/breadcrumbs/breadcrumbs.php:67
+msgid "Tour Breadcrumb Background"
+msgstr ""
+
+#: includes/theme-options/options/settings/color/color.php:10
+#: includes/theme-options/options/settings/color/color.php:15
+msgid "Color Options"
+msgstr ""
+
+#: includes/theme-options/options/settings/color/color.php:21
+msgid "Primary Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/custom_css.php:15
+msgid "Custom CSS  ( All Device )"
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/custom_css.php:20
+msgid ""
+"Write custom css here with css selector. this css will be applied in all "
+"pages and post."
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/custom_css.php:32
+msgid "Custom CSS  ( Medium Device or Ipad Pro )"
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/custom_css.php:37
+msgid ""
+"Write custom css here with css selector. this css will be applied in all "
+"pages and post, when device width will be  minimum 1024px maximum 1366px."
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/custom_css.php:49
+msgid "Custom CSS  ( Medium Device or Tablet )"
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/custom_css.php:54
+msgid ""
+"Write custom css here with css selector. this css will be applied in all "
+"pages and post, when device width will be  minimum 768px maximum 992px."
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/custom_css.php:66
+msgid "Custom CSS  ( Mobile Device )"
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/custom_css.php:71
+msgid ""
+"Write custom css here with css selector. this css will be applied in all "
+"pages and post, when device width will be maximum 767px."
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/custom_javascript.php:8
+#: includes/theme-options/options/settings/custom-scripts/custom_javascript.php:15
+msgid "Custom Javascript"
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/custom_javascript.php:20
+#: includes/theme-options/options/settings/custom-scripts/header_meta.php:20
+msgid ""
+"Write Here your header meta tag. example: ( <meta name=\"author\" content="
+"\"ShapeReign\"> )"
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/custom_scripts.php:12
+msgid "Custom Scripts"
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/header_meta.php:8
+msgid "Header Meta"
+msgstr ""
+
+#: includes/theme-options/options/settings/custom-scripts/header_meta.php:15
+msgid "Header Meta Tags"
+msgstr ""
+
+#: includes/theme-options/options/settings/footer/footer.php:6
+msgid "Footer"
+msgstr ""
+
+#: includes/theme-options/options/settings/footer/footer.php:12
+msgid "Footer Options"
+msgstr ""
+
+#: includes/theme-options/options/settings/footer/footer.php:17
+msgid "Footer Background Image"
+msgstr ""
+
+#: includes/theme-options/options/settings/footer/footer.php:19
+msgid "Set footer bottom background Image."
+msgstr ""
+
+#: includes/theme-options/options/settings/footer/footer.php:26
+msgid "Footer Widget Area Space"
+msgstr ""
+
+#: includes/theme-options/options/settings/footer/footer.php:27
+msgid "Set the space ( top / bottom ) in footer bottom."
+msgstr ""
+
+#: includes/theme-options/options/settings/footer/footer.php:41
+msgid "Copyright Area Options"
+msgstr ""
+
+#: includes/theme-options/options/settings/footer/footer.php:45
+msgid "Copyright Area"
+msgstr ""
+
+#: includes/theme-options/options/settings/footer/footer.php:51
+msgid "Copyright Area Logo"
+msgstr ""
+
+#: includes/theme-options/options/settings/footer/footer.php:53
+msgid "you can set <mark>padding</mark> for copyright area top/bottom"
+msgstr ""
+
+#: includes/theme-options/options/settings/footer/footer.php:58
+msgid "Copyright Area Text"
+msgstr ""
+
+#: includes/theme-options/options/settings/general/general.php:8
+msgid "General"
+msgstr ""
+
+#: includes/theme-options/options/settings/general/general.php:14
+msgid "Preloader Options"
+msgstr ""
+
+#: includes/theme-options/options/settings/general/general.php:18
+msgid "Preloader"
+msgstr ""
+
+#: includes/theme-options/options/settings/general/general.php:20
+#: includes/theme-options/options/settings/header/top_bar_options.php:67
+msgid "you can set <mark>Yes / No</mark> to enable/disable preloader"
+msgstr ""
+
+#: includes/theme-options/options/settings/general/general.php:25
+msgid "Package Per Page"
+msgstr ""
+
+#: includes/theme-options/options/settings/general/general.php:27
+msgid "you can set <mark>Package Per Page</mark> for Tour Package"
+msgstr ""
+
+#: includes/theme-options/options/settings/general/general.php:32
+msgid "Package Form Title"
+msgstr ""
+
+#: includes/theme-options/options/settings/general/general.php:34
+msgid "you can set <mark>Package title</mark> for Tour Package Form"
+msgstr ""
+
+#: includes/theme-options/options/settings/general/general.php:35
+msgid "Book the Tour"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header.php:12
+#: includes/theme-options/options/settings/header/header_options.php:8
+#: includes/theme-options/options/settings/header/header_options.php:14
+msgid "Header Options"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:18
+msgid "Header Layout"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:27
+msgid "you can set header layout design for header area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:34
+msgid "Header One"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:41
+#: includes/theme-options/options/settings/header/header_options.php:288
+#: includes/theme-options/options/settings/header/header_options.php:556
+msgid "Header Sidebar Enable/Disable"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:43
+#: includes/theme-options/options/settings/header/header_options.php:290
+#: includes/theme-options/options/settings/header/header_options.php:558
+msgid "you can set <mark>Yes / No</mark> to enable/disable category"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:50
+#: includes/theme-options/options/settings/header/header_options.php:299
+#: includes/theme-options/options/settings/header/header_options.php:575
+msgid "Header Sticky Enable/Disable"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:52
+#: includes/theme-options/options/settings/header/header_options.php:301
+#: includes/theme-options/options/settings/header/header_options.php:577
+msgid "you can set <mark>Yes / No</mark> to enable/disable header sticky"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:63
+#: includes/theme-options/options/settings/header/header_options.php:565
+msgid "Search Enable/Disable"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:65
+#: includes/theme-options/options/settings/header/header_options.php:567
+msgid "you can set <mark>Yes / No</mark> to enable/disable search"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:77
+#: includes/theme-options/options/settings/header/header_options.php:346
+#: includes/theme-options/options/settings/header/header_options.php:620
+msgid "Color Option"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:97
+#: includes/theme-options/options/settings/header/header_options.php:189
+#: includes/theme-options/options/settings/header/header_options.php:368
+#: includes/theme-options/options/settings/header/header_options.php:461
+#: includes/theme-options/options/settings/header/header_options.php:642
+#: includes/theme-options/options/settings/header/header_options.php:764
+msgid "Background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:98
+#: includes/theme-options/options/settings/header/header_options.php:190
+#: includes/theme-options/options/settings/header/header_options.php:369
+#: includes/theme-options/options/settings/header/header_options.php:462
+#: includes/theme-options/options/settings/header/header_options.php:643
+#: includes/theme-options/options/settings/header/header_options.php:765
+msgid "you can select <mark>Header Background Color </mark> for header section"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:103
+#: includes/theme-options/options/settings/header/header_options.php:196
+#: includes/theme-options/options/settings/header/header_options.php:375
+#: includes/theme-options/options/settings/header/header_options.php:468
+#: includes/theme-options/options/settings/header/header_options.php:649
+#: includes/theme-options/options/settings/header/header_options.php:771
+msgid "Menu Text Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:104
+#: includes/theme-options/options/settings/header/header_options.php:110
+#: includes/theme-options/options/settings/header/header_options.php:123
+#: includes/theme-options/options/settings/header/header_options.php:129
+#: includes/theme-options/options/settings/header/header_options.php:135
+#: includes/theme-options/options/settings/header/header_options.php:197
+#: includes/theme-options/options/settings/header/header_options.php:204
+#: includes/theme-options/options/settings/header/header_options.php:213
+#: includes/theme-options/options/settings/header/header_options.php:219
+#: includes/theme-options/options/settings/header/header_options.php:225
+#: includes/theme-options/options/settings/header/header_options.php:376
+#: includes/theme-options/options/settings/header/header_options.php:383
+#: includes/theme-options/options/settings/header/header_options.php:391
+#: includes/theme-options/options/settings/header/header_options.php:397
+#: includes/theme-options/options/settings/header/header_options.php:403
+#: includes/theme-options/options/settings/header/header_options.php:469
+#: includes/theme-options/options/settings/header/header_options.php:476
+#: includes/theme-options/options/settings/header/header_options.php:484
+#: includes/theme-options/options/settings/header/header_options.php:490
+#: includes/theme-options/options/settings/header/header_options.php:496
+#: includes/theme-options/options/settings/header/header_options.php:650
+#: includes/theme-options/options/settings/header/header_options.php:657
+#: includes/theme-options/options/settings/header/header_options.php:665
+#: includes/theme-options/options/settings/header/header_options.php:671
+#: includes/theme-options/options/settings/header/header_options.php:677
+#: includes/theme-options/options/settings/header/header_options.php:772
+#: includes/theme-options/options/settings/header/header_options.php:779
+#: includes/theme-options/options/settings/header/header_options.php:787
+#: includes/theme-options/options/settings/header/header_options.php:793
+#: includes/theme-options/options/settings/header/header_options.php:799
+msgid "you can select <mark>Header Menu Color </mark> for header section"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:109
+#: includes/theme-options/options/settings/header/header_options.php:203
+#: includes/theme-options/options/settings/header/header_options.php:382
+#: includes/theme-options/options/settings/header/header_options.php:475
+#: includes/theme-options/options/settings/header/header_options.php:656
+#: includes/theme-options/options/settings/header/header_options.php:778
+msgid "Menu Hover Text Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:115
+msgid "Menu Active Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:116
+msgid ""
+"you can select <mark>Header Menu Active Color </mark> for header section"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:122
+#: includes/theme-options/options/settings/header/header_options.php:212
+#: includes/theme-options/options/settings/header/header_options.php:390
+#: includes/theme-options/options/settings/header/header_options.php:483
+#: includes/theme-options/options/settings/header/header_options.php:664
+#: includes/theme-options/options/settings/header/header_options.php:786
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:128
+#: includes/theme-options/options/settings/header/header_options.php:218
+#: includes/theme-options/options/settings/header/header_options.php:396
+#: includes/theme-options/options/settings/header/header_options.php:489
+#: includes/theme-options/options/settings/header/header_options.php:670
+#: includes/theme-options/options/settings/header/header_options.php:792
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:134
+#: includes/theme-options/options/settings/header/header_options.php:224
+#: includes/theme-options/options/settings/header/header_options.php:402
+#: includes/theme-options/options/settings/header/header_options.php:495
+#: includes/theme-options/options/settings/header/header_options.php:676
+#: includes/theme-options/options/settings/header/header_options.php:798
+msgid "Sub Menu Hover Text Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:140
+msgid "Sub Menu Text Background Hover Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:141
+#: includes/theme-options/options/settings/header/header_options.php:231
+#: includes/theme-options/options/settings/header/header_options.php:409
+#: includes/theme-options/options/settings/header/header_options.php:503
+#: includes/theme-options/options/settings/header/header_options.php:683
+#: includes/theme-options/options/settings/header/header_options.php:805
+msgid ""
+"you can select <mark>Header Menu Background Color </mark> for header section"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:146
+#: includes/theme-options/options/settings/header/header_options.php:415
+#: includes/theme-options/options/settings/header/header_options.php:710
+#: includes/theme-options/options/settings/header/header_options.php:832
+msgid "Search & Sidebar"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:151
+#: includes/theme-options/options/settings/header/header_options.php:242
+msgid "Search Icon Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:152
+#: includes/theme-options/options/settings/header/header_options.php:243
+#: includes/theme-options/options/settings/header/header_options.php:717
+#: includes/theme-options/options/settings/header/header_options.php:732
+#: includes/theme-options/options/settings/header/header_options.php:839
+#: includes/theme-options/options/settings/header/header_options.php:854
+msgid "you can set <mark>Search Icon Color </mark> for header section"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:158
+#: includes/theme-options/options/settings/header/header_options.php:250
+msgid "Search Icon Hover Background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:159
+#: includes/theme-options/options/settings/header/header_options.php:251
+msgid ""
+"you can set <mark>Search Icon Hover Background Color </mark> for header "
+"section"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:165
+#: includes/theme-options/options/settings/header/header_options.php:257
+#: includes/theme-options/options/settings/header/header_options.php:422
+#: includes/theme-options/options/settings/header/header_options.php:516
+msgid "Sidebar Icon Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:166
+#: includes/theme-options/options/settings/header/header_options.php:258
+msgid ""
+"you can set <mark>Header One Sidebar Icon Color </mark> for header section"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:172
+msgid "Sidebar Icon Hover Background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:173
+#: includes/theme-options/options/settings/header/header_options.php:266
+msgid ""
+"you can set <mark>Header One Sidebar Icon Hover Background Color </mark> for "
+"header section"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:230
+msgid "Sub Menu Text Hover Background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:236
+msgid "Sticky Search & Sidebar"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:265
+msgid "Sidebar Icon Hover background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:281
+msgid "Header Two"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:311
+#: includes/theme-options/options/settings/header/header_options.php:587
+msgid "Hotline Options"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:317
+#: includes/theme-options/options/settings/header/header_options.php:592
+msgid "Hotline Enable/Disable"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:320
+#: includes/theme-options/options/settings/header/header_options.php:595
+msgid "you can set <mark>hotline </mark>enable/disable option"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:326
+#: includes/theme-options/options/settings/header/header_options.php:601
+msgid "Hotline Text"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:328
+#: includes/theme-options/options/settings/header/header_options.php:603
+msgid "you can set <mark>hotline text</mark> for menu hotline"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:334
+#: includes/theme-options/options/settings/header/header_options.php:609
+msgid "Hotline Number"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:336
+#: includes/theme-options/options/settings/header/header_options.php:611
+msgid "you can set <mark>hotline number</mark> for menu hotline"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:408
+#: includes/theme-options/options/settings/header/header_options.php:502
+msgid "Sub Menu Hover Text Background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:423
+#: includes/theme-options/options/settings/header/header_options.php:437
+#: includes/theme-options/options/settings/header/header_options.php:444
+#: includes/theme-options/options/settings/header/header_options.php:517
+#: includes/theme-options/options/settings/header/header_options.php:532
+#: includes/theme-options/options/settings/header/header_options.php:539
+#: includes/theme-options/options/settings/header/header_options.php:697
+#: includes/theme-options/options/settings/header/header_options.php:704
+#: includes/theme-options/options/settings/header/header_options.php:819
+#: includes/theme-options/options/settings/header/header_options.php:826
+msgid ""
+"you can set <mark>Header Two Sidebar Icon Color </mark> for header section"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:429
+#: includes/theme-options/options/settings/header/header_options.php:524
+#: includes/theme-options/options/settings/header/header_options.php:689
+#: includes/theme-options/options/settings/header/header_options.php:811
+msgid "Hotline Area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:436
+#: includes/theme-options/options/settings/header/header_options.php:531
+#: includes/theme-options/options/settings/header/header_options.php:696
+#: includes/theme-options/options/settings/header/header_options.php:818
+msgid "Hotline Icon Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:443
+#: includes/theme-options/options/settings/header/header_options.php:538
+#: includes/theme-options/options/settings/header/header_options.php:703
+#: includes/theme-options/options/settings/header/header_options.php:825
+msgid "Hotline Text Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:509
+msgid "Sidebar"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:682
+#: includes/theme-options/options/settings/header/header_options.php:804
+msgid "Sub Menu Hover Text background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:716
+#: includes/theme-options/options/settings/header/header_options.php:838
+msgid "Icon Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:724
+#: includes/theme-options/options/settings/header/header_options.php:846
+msgid "Icon Background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:725
+#: includes/theme-options/options/settings/header/header_options.php:740
+#: includes/theme-options/options/settings/header/header_options.php:747
+#: includes/theme-options/options/settings/header/header_options.php:847
+#: includes/theme-options/options/settings/header/header_options.php:862
+#: includes/theme-options/options/settings/header/header_options.php:869
+msgid ""
+"you can set <mark>Header three Sidebar Icon Color </mark> for header section"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:731
+#: includes/theme-options/options/settings/header/header_options.php:853
+msgid "Icon Hover Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:739
+#: includes/theme-options/options/settings/header/header_options.php:861
+msgid "Icon Hover Background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/header_options.php:746
+#: includes/theme-options/options/settings/header/header_options.php:868
+msgid "Icon Hover Border Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/logo.php:8
+msgid "Logo"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/logo.php:14
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/logo.php:21
+msgid "you can upload <mark>Header One Logo</mark> for header"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:8
+#: includes/theme-options/options/settings/header/top_bar_options.php:14
+msgid "Top Bar Options"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:18
+msgid "Top Bar Enable/Disable"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:20
+msgid "you can set <mark>Yes / No</mark> to enable/disable topbar"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:25
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:27
+msgid "you can set <mark>bacground color</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:33
+#: template-parts/tour/enquiries.php:26
+msgid "Phone Number"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:35
+msgid "you can set <mark>phone number</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:41
+msgid "Phone Number Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:43
+msgid "you can set <mark>phone number color</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:51
+msgid "you can set <mark>email address</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:57
+msgid "Email Address Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:59
+msgid "you can set <mark>email address color</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:73
+msgid "Enable Promotion Link"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:75
+msgid "you can set <mark>link</mark> for top bar promotion title"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:81
+msgid "Enable Promotion Text"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:83
+msgid "you can set <mark>text</mark> for top bar promotion title"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:84
+msgid "Black Friday Big Offer"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:89
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:91
+msgid "you can set <mark>button color</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:97
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:99
+msgid "you can set <mark>button background color</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:104
+msgid "Social Media Icon Color"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:106
+msgid "you can set <mark>social media icon color</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:111
+msgid "Facebook"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:113
+msgid "you can set <mark>facebbok icon</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:119
+msgid "Instagram"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:121
+msgid "you can set <mark>instagram icon</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:127
+msgid "Twitter"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:129
+msgid "you can set <mark>twitter icon</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:135
+msgid "Youtube"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:137
+msgid "you can set <mark>youtube icon</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:143
+msgid "Whatsapp"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:145
+msgid "you can set <mark>whatsapp icon</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:151
+msgid "Pinterest"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:153
+msgid "you can set <mark>pinterest icon</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:159
+msgid "Flickr"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:161
+msgid "you can set <mark>flickr icon</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:167
+msgid "Dribbble"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:169
+msgid "you can set <mark>dribbble icon</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:175
+msgid "Vimeo"
+msgstr ""
+
+#: includes/theme-options/options/settings/header/top_bar_options.php:177
+msgid "you can set <mark>vimeo icon</mark> for top bar area"
+msgstr ""
+
+#: includes/theme-options/options/settings/tour/review-rating.php:9
+msgid "Tour Rating"
+msgstr ""
+
+#: includes/theme-options/options/settings/tour/review-rating.php:14
+msgid "Settings"
+msgstr ""
+
+#: includes/theme-options/options/settings/tour/review-rating.php:19
+msgid "Review & Rating Enable/Disable"
+msgstr ""
+
+#: includes/theme-options/options/settings/tour/review-rating.php:22
+msgid "Enable"
+msgstr ""
+
+#: includes/theme-options/options/settings/tour/review-rating.php:23
+msgid "Disable"
+msgstr ""
+
+#: includes/theme-options/options/settings/tour/review-rating.php:45
+#: includes/theme-options/options/settings/tour/review-rating.php:53
+#: template-parts/tour/review-rating.php:17
+msgid "Customer Review"
+msgstr ""
+
+#: includes/theme-options/options/settings/tour/review-rating.php:58
+msgid "Add Review criteria"
+msgstr ""
+
+#: includes/theme-options/options/settings/tour/review-rating.php:65
+#: template-parts/tour/review-rating.php:57
+msgid "Write Your Review"
+msgstr ""
+
+#: includes/theme-options/options/settings/tour/review-rating.php:72
+msgid "Tour Criteria"
+msgstr ""
+
+#: includes/theme-options/options/settings/tour/review-rating.php:79
+msgid "Creiteria"
+msgstr ""
+
+#: includes/theme-options/options/settings/tour/review-rating.php:80
+msgid "Overall"
+msgstr ""
+
+#: includes/theme-options/options/settings/woocommerce/woocommerce.php:9
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/theme-options/options/settings/woocommerce/woocommerce.php:18
+msgid "Shop Page"
+msgstr ""
+
+#: includes/theme-options/options/settings/woocommerce/woocommerce.php:32
+msgid "Shop product Column"
+msgstr ""
+
+#: includes/theme-options/options/settings/woocommerce/woocommerce.php:45
+msgid "Flash Sale Tag"
+msgstr ""
+
+#: includes/theme-options/options/settings/woocommerce/woocommerce.php:46
+msgid "Show/Hide"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:20
+msgid "Package Info"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:51
+msgid "Select an Option"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:53
+#: template-parts/tour/tour-booking.php:20
+msgid "Enquiry Form"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:54
+msgid "Booking Form "
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:55
+msgid "Both"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:62
+msgid "Select Product"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:63
+msgid "Select a product"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:76
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:83
+msgid "Promotion Price"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:89
+msgid "Tour Booking Date"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:119
+msgid "Price Range Text"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:120
+msgid "Starting From"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:125
+msgid "Price Type"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:130
+#: loop-templates/content-single-package.php:12
+#: template-parts/common/search-bar.php:84
+msgid "Duration"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:140
+msgid "Start Date"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:149
+msgid "End Date"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:160
+msgid "Total Group Size"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:165
+msgid "Total Tour Guide"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:170
+msgid "Languages"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:180
+#: loop-templates/content-single-package.php:120
+msgid "Travel Plan"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:188
+#: includes/theme-options/options/tour-packages/tour-package.php:317
+msgid "Overview"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:194
+msgid "Travel Plan List"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:204
+msgid "Time"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:226
+#: includes/theme-options/options/tour-packages/tour-package.php:234
+msgid "Gallery"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:236
+msgid "Edit Images"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:243
+#: loop-templates/content-single-package.php:126
+msgid "Location"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:266
+msgid "Feature Package"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:275
+msgid "Switcher with Yes/No"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:294
+msgid "Destination Image"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:300
+msgid "Main Description"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:310
+msgid "Overview Title"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:322
+msgid "Label"
+msgstr ""
+
+#: includes/theme-options/options/tour-packages/tour-package.php:335
+msgid "Map Iframe Code"
+msgstr ""
+
+#: includes/theme-options/options/woocommerce/woocommerce.php:20
+msgid "Turio Tour Services"
+msgstr ""
+
+#: includes/theme-options/options/woocommerce/woocommerce.php:36
+msgid "Add Services"
+msgstr ""
+
+#: includes/theme-options/options/woocommerce/woocommerce.php:42
+msgid "Add Service"
+msgstr ""
+
+#: loop-templates/content-audio.php:61 loop-templates/content-gallery.php:56
+#: loop-templates/content-image.php:67 loop-templates/content-quote.php:67
+#: loop-templates/content-single.php:67 loop-templates/content-video.php:56
+msgid "Tags :"
+msgstr ""
+
+#: loop-templates/content-grid.php:17
+msgid "By "
+msgstr ""
+
+#: loop-templates/content-none.php:16
+msgid "Sorry!, Nothing Found!"
+msgstr ""
+
+#: loop-templates/content-none.php:17
+#: woocommerce/loop/no-products-found.php:26
+msgid ""
+"Nothing Match your search terms. Please try again with some different "
+"keywords."
+msgstr ""
+
+#: loop-templates/content-single-package.php:28
+#: template-parts/breadcrumbs/breadcrumb-archive.php:27
+msgid "Tour Type"
+msgstr ""
+
+#: loop-templates/content-single-package.php:50
+msgid "Group Size"
+msgstr ""
+
+#: loop-templates/content-single-package.php:64
+msgid "Tour Guide"
+msgstr ""
+
+#: loop-templates/content-single-package.php:117
+msgid "Information"
+msgstr ""
+
+#: loop-templates/content-single-package.php:123
+msgid "Tour Gallery"
+msgstr ""
+
+#: loop-templates/content-single-package.php:140
+msgid "Details"
+msgstr ""
+
+#: template-parts/breadcrumbs/breadcrumb-archive.php:25
+#: template-parts/common/search-bar.php:31
+msgid "Destination"
+msgstr ""
+
+#: template-parts/breadcrumbs/breadcrumb-archive.php:29
+msgid "Tags"
+msgstr ""
+
+#: template-parts/breadcrumbs/breadcrumb-archive.php:31
+msgid "Blog"
+msgstr ""
+
+#: template-parts/breadcrumbs/breadcrumb-search.php:13
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: template-parts/breadcrumbs/breadcrumb-tour-archive.php:15
+msgid "Tour Package"
+msgstr ""
+
+#: template-parts/common/search-bar.php:32
+#: template-parts/common/search-bar.php:33
+msgid "Where Are You Going?"
+msgstr ""
+
+#: template-parts/common/search-bar.php:64
+msgid "Travel Type"
+msgstr ""
+
+#: template-parts/common/search-bar.php:65
+#: template-parts/common/search-bar.php:66
+msgid "All Activity"
+msgstr ""
+
+#: template-parts/common/search-bar.php:85
+msgid "Please type duration "
+msgstr ""
+
+#: template-parts/common/search-bar.php:95
+msgid "Journey Date"
+msgstr ""
+
+#: template-parts/common/search-bar.php:96
+msgid "Select your date"
+msgstr ""
+
+#: template-parts/common/search-bar.php:104
+msgid "Find Now"
+msgstr ""
+
+#: template-parts/tour/enquiries.php:8
+msgid "Full Name*"
+msgstr ""
+
+#: template-parts/tour/enquiries.php:17
+msgid "E-mail*"
+msgstr ""
+
+#: template-parts/tour/enquiries.php:42
+msgid "Number of tickets"
+msgstr ""
+
+#: template-parts/tour/enquiries.php:50
+msgid "Your Enquiry*"
+msgstr ""
+
+#: template-parts/tour/review-rating.php:23
+msgid "( Out of 10 )"
+msgstr ""
+
+#: template-parts/tour/review-rating.php:39
+msgid "Review"
+msgstr ""
+
+#: template-parts/tour/review-rating.php:39
+#: woocommerce/single-product-reviews.php:40
+msgid "Reviews"
+msgstr ""
+
+#: template-parts/tour/review-rating.php:45
+msgid "No rating found"
+msgstr ""
+
+#: template-parts/tour/review-rating.php:64
+msgid "Your Name:"
+msgstr ""
+
+#: template-parts/tour/review-rating.php:70
+msgid "Your Email Address:"
+msgstr ""
+
+#: template-parts/tour/review-rating.php:76
+msgid "Reivew Title:"
+msgstr ""
+
+#: template-parts/tour/review-rating.php:131
+msgid "GIVE A RATING"
+msgstr ""
+
+#: template-parts/tour/review-rating.php:172
+msgid "Review by-"
+msgstr ""
+
+#: template-parts/tour/tour-booking.php:11
+msgid "Base Price "
+msgstr ""
+
+#: template-parts/tour/tour-booking.php:17
+msgid " Booking Form"
+msgstr ""
+
+#: template-parts/tour/tour-booking.php:43
+msgid "Please select a woocommerce product first"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:131
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:132
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:133
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:135
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:139
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:146
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Cart Overview"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30 woocommerce/cart/cart-totals.php:31
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:102
+#: woocommerce/checkout/review-order.php:60
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:52 woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:98 woocommerce/cart/cart-totals.php:99
+#: woocommerce/checkout/review-order.php:108
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Remove item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:69
+#: woocommerce/checkout/review-order.php:24
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:120
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:120
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:27
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:25
+msgid "Amount"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:24
+msgid "image"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:25
+msgid "Sorry !, No product found"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:32
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:79
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:99
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""

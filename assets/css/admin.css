@@ -1,0 +1,109 @@
+/*--------------------------------------------------------------
+## Backend CSS  ( Theme Options )
+--------------------------------------------------------------*/
+#wpbody .csf-field-image_select .csf--active {
+    border-color: #4fb845;
+    box-shadow: 0 0 20pxrgba(0, 0, 0, .2);
+}
+
+#wpbody .csf-field-image_select .csf--image:before {
+    background-color: #4fb845;
+}
+
+#wpbody .csf-field-image_select .csf--image {
+    margin-bottom: 20px !important;
+}
+
+.csf-siblings.csf--image-group .csf--sibling.csf--image img {
+    width: 100%;
+}
+
+.csf-field-map .csf--map-osm {
+    position: relative;
+    z-index: 1;
+    min-height: 250px !important;
+}
+
+.preloader_gif {
+    position: absolute;
+    right: 36%;
+    top: 25%;
+}
+
+td.review_rating {
+    list-style: none;
+}
+
+
+/* Rating css  */
+td.review_rating {
+    font-weight: 700;
+}
+
+td.review_rating li {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    align-items: end;
+}
+
+td.review_rating li>span {
+    font-size: 12px;
+    font-weight: 500;
+    display: block;
+    width: calc(50%);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-bottom: 4px;
+}
+
+td.review_rating li .rating {
+    width: calc(50% - 10px);
+}
+
+td.review_rating li .rating span {
+    width: 10px;
+    height: 10px;
+    font-size: 10px;
+}
+
+.turio_tour_action[value="reject"] {
+    background: transparent;
+    border: none;
+    color: #996800;
+    cursor: pointer;
+}
+
+.turio_tour_action[value="approve"] {
+    background: transparent;
+    border: none;
+    color: #007017;
+    cursor: pointer;
+}
+
+
+
+/* Order Details css  */
+.order-info {
+    margin-left: 15px;
+}
+
+.order-info h3 {
+    margin: 0 0 8px 0;
+    font-weight: 500;
+    font-size: 1.3em;
+}
+
+.order-info h4 {
+    font-size: 1em;
+    font-weight: 700;
+    color: #000;
+    margin: 0 0 3px;
+}
+
+.order-info ul {
+    list-style: inside;
+    color: #000;
+    font-weight: 500;
+}

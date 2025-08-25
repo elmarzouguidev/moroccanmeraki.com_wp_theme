@@ -1,0 +1,459 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Document Setup
+# Clearing
+# Base Transitions
+# Forms
+# Accessibility
+# Alignments
+# Widgets
+# Content
+	## Posts and pages
+	## Comments
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+# Header Menu Issue with Admin Bar
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Document Setup
+--------------------------------------------------------------*/
+
+:root {
+    /*color Variable*/
+    --text-primary: #54A15D;
+    --text-secondary: #454545;
+    --text-tertiary: #666666;
+    --c-primary: #54A15D;
+    --c-secondary: #d4ede1;
+  
+    /*font Variable*/
+    --f-primary: "Montserrat", sans-serif;
+  
+    /*shadow Variable*/
+    --shadow-one: 4px 8px 30px rgba(141, 141, 141, 0.1);
+  }
+
+
+body {
+    box-sizing: border-box;
+}
+:root {
+	 --c-primary: #D90A2C; 
+}
+
+.page-wrapper .inner-post table th,
+.blog-wrapper .blog-details table th,
+.blog-comment-form table th{
+    color: #00274e;
+}
+
+/*--------------------------------------------------------------
+# Clearing
+--------------------------------------------------------------*/
+
+.group::after,
+.entry-content::after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+
+/*--------------------------------------------------------------
+# Base Transitions
+--------------------------------------------------------------*/
+
+a,
+path {
+    transition: all 0.15s linear;
+}
+
+/*--------------------------------------------------------------
+# Forms
+--------------------------------------------------------------*/
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    border: 1px solid;
+    border-color: #cccccc #cccccc #bbbbbb;
+    border-radius: 3px;
+    background: #e6e6e6;
+    color: rgba(0, 0, 0, 0.8);
+    line-height: 1;
+    padding: .6em 1em .4em;
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+    border-color: #cccccc #bbbbbb #aaaaaa;
+}
+
+button:active,
+button:focus,
+input[type="button"]:active,
+input[type="button"]:focus,
+input[type="reset"]:active,
+input[type="reset"]:focus,
+input[type="submit"]:active,
+input[type="submit"]:focus {
+    border-color: #aaaaaa #bbbbbb #bbbbbb;
+}
+input[type="search"] {
+    color: #666666;
+    border: 1px solid #e1e6ff;
+}
+input[type="text"],
+input[type="url"],
+input[type="password"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea {
+    color: #666666;
+    border: 1px solid #e1e6ff;
+}
+
+select {
+    border: 1px solid #cccccc;
+}
+
+textarea {
+    width: 100%;
+}
+
+.post-content input {
+    padding: 10px;
+    font-size: 12px;
+    height: 40px;
+    letter-spacing: 3px;
+}
+.kc-contact-form7 input,
+.kc-contact-form7 textarea {
+    padding: 10px;
+}
+
+.owl-carousel .owl-item img {
+    max-width: 100%;
+    width: auto;
+}
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+.screen-reader-text {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute !important;
+    width: 1px;
+    word-wrap: normal !important;
+}
+
+.screen-reader-text:focus {
+    background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important;
+    -webkit-clip-path: none;
+    clip-path: none;
+    color:var( --c-primary);
+    display: block;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000;
+}
+
+#content[tabindex="-1"]:focus {
+    outline: 0;
+}
+
+/*--------------------------------------------------------------
+# Alignments
+--------------------------------------------------------------*/
+.alignleft {
+    float: left;
+    margin-right: 1.5em;
+}
+
+.alignright {
+    float: right;
+    margin-left: 1.5em;
+}
+
+.aligncenter {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*--------------------------------------------------------------
+# Widgets
+--------------------------------------------------------------*/
+
+.widget select {
+    max-width: 100%;
+}
+
+/*--------------------------------------------------------------
+## Posts and pages
+--------------------------------------------------------------*/
+.sticky {
+    display: block;
+}
+
+.updated:not(.published) {
+    display: none;
+}
+
+.page-wrapper .inner-post:after,
+.post-content:after,
+.entry-content:after,
+.entry-summary:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.page-links {
+    clear: both;
+    margin: 0 0 1.5em;
+}
+
+/*--------------------------------------------------------------
+## Comments
+--------------------------------------------------------------*/
+.comment-content a {
+    word-wrap: break-word;
+}
+
+.bypostauthor {
+    display: block;
+}
+.blog-news .blog-post-area #commentform {
+    padding-bottom: 0;
+}
+.blog-news .blog-comment-form .form-submit {
+    margin-bottom: 0;
+}
+/*--------------------------------------------------------------
+# Infinite scroll
+--------------------------------------------------------------*/
+.infinite-scroll .posts-navigation,
+.infinite-scroll.neverending .site-footer {
+    display: none;
+}
+
+.infinity-end.neverending .site-footer {
+    display: block;
+}
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
+.page-wrapper .inner-post .wp-smiley,
+.entry-content .wp-smiley,
+.comment-content .wp-smiley {
+    border: none;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+}
+
+embed,
+iframe,
+object {
+    max-width: 100%;
+}
+
+/*--------------------------------------------------------------
+## Captions
+--------------------------------------------------------------*/
+.wp-caption {
+    margin-bottom: 1.5em;
+    max-width: 100%;
+}
+
+.wp-caption img[class*="wp-image-"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wp-caption .wp-caption-text {
+    margin: 0.8075em 0;
+}
+
+.wp-caption-text {
+    text-align: center;
+}
+
+/*--------------------------------------------------------------
+## Galleries
+--------------------------------------------------------------*/
+
+.gallery {
+    margin-bottom: 1.5em;
+}
+
+.gallery-item {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+    max-width: 50%;
+}
+
+.gallery-columns-3 .gallery-item {
+    max-width: 33.33%;
+}
+
+.gallery-columns-4 .gallery-item {
+    max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+    max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+    max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+    max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+    max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+    max-width: 11.11%;
+}
+
+.gallery-caption {
+    display: block;
+}
+.single .blog-wrapper .blog-details figure.gallery-item {
+    margin-bottom: 20px;
+}
+.single .blog-wrapper .blog-details figure.gallery-item img {
+    margin-bottom: 5px;
+}
+.blocks-gallery-grid:not(.has-nested-images), .wp-block-gallery:not(.has-nested-images) {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 0;
+    margin-right: 5px;
+}
+/*** NEW CSS ***/
+
+.blog-widget .wp-block-search .wp-block-search__label,.blog-widget .wp-block-group__inner-container h2 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 35px;
+    color: #2E2D31;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+
+
+.blog-widget area form.wp-block-search__button-outside.wp-block-search__text-button.wp-block-search {
+	margin-bottom: 10px;
+	
+}
+
+/*--------------------------------------------------------------
+## Header Menu Issue With Admin Bar
+--------------------------------------------------------------*/
+
+@media (max-width: 991px){
+    body.logged-in.admin-bar .main-menu.show-menu {
+        margin-top: 42px;
+    }
+    body.logged-in.admin-bar header.sticky .main-menu.show-menu {
+        margin-top: 0;
+    }
+    .blog-sidebar{
+        margin-top: 40px;
+    }
+}
+
+body.logged-in.admin-bar .header.sticky{
+    position: fixed;
+    margin-top: 32px;
+}
+  @media screen and (max-width: 783px) {
+    body.logged-in.admin-bar .header.sticky{
+        position: fixed;
+    }
+  } 
+  @media screen and (max-width: 576px) {
+    body.logged-in.admin-bar .header.sticky{
+        position: fixed;
+        margin: 0;
+    }
+  } 
+  @media only screen and (max-width: 1199px) {
+    body.logged-in.admin-bar .header.sticky .header-area{
+        margin-top: 0;
+    }
+  }
+
+.blog-title:hover {
+    color: #54a15d !important;
+    transition: .25s ease;
+}
+
+input[type="date"] {
+    font-size: 13px;
+	font-weight: 500;
+    color: #2d373c;
+}
+
+.comment-respond small {
+    font-size: .875em;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.contact-info ul li a {
+    display: block;
+}
+
+body.logged-in.admin-bar .header-area.sticky {
+  margin-top: 32px;
+  position: fixed;
+}

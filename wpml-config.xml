@@ -1,0 +1,83 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">e-landing-page</custom-type>
+    <custom-type translate="1">elementor_library</custom-type>
+    <custom-type translate="1">product</custom-type>
+    <custom-type translate="1">product_variation</custom-type>
+    <custom-type translate="1">shop_order</custom-type>
+    <custom-type translate="1">shop_order_refund</custom-type>
+    <custom-type translate="1">shop_coupon</custom-type>
+    <custom-type translate="1">shop_order_placehold</custom-type>
+    <custom-type translate="1">wpcf7_contact_form</custom-type>
+    <custom-type translate="1">flamingo_contact</custom-type>
+    <custom-type translate="1">flamingo_inbound</custom-type>
+    <custom-type translate="1">mc4wp-form</custom-type>
+    <custom-type translate="1">turio-package</custom-type>
+    <custom-type translate="1">enquiries</custom-type>
+    <custom-type translate="1">review-rating</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">elementor_library_type</taxonomy>
+    <taxonomy translate="1">elementor_library_category</taxonomy>
+    <taxonomy translate="1">product_type</taxonomy>
+    <taxonomy translate="1">product_visibility</taxonomy>
+    <taxonomy translate="1">product_cat</taxonomy>
+    <taxonomy translate="1">product_tag</taxonomy>
+    <taxonomy translate="1">product_shipping_class</taxonomy>
+    <taxonomy translate="1">translation_priority</taxonomy>
+    <taxonomy translate="1">flamingo_contact_tag</taxonomy>
+    <taxonomy translate="1">flamingo_inbound_channel</taxonomy>
+    <taxonomy translate="1">turio-package-destination</taxonomy>
+    <taxonomy translate="1">turio-package-type</taxonomy>
+    <taxonomy translate="1">turio-package-tags</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="ignore">turio-meta</custom-field>
+    <custom-field action="ignore">turio_quote_text</custom-field>
+    <custom-field action="ignore">turio_children_price</custom-field>
+    <custom-field action="ignore">turio-meta-woocommerce</custom-field>
+    <custom-field action="ignore">turio_turio_package_info_options</custom-field>
+    <custom-field action="ignore">turio_travel_plan_options</custom-field>
+    <custom-field action="ignore">turio_gallery_options</custom-field>
+    <custom-field action="ignore">turio_location_options</custom-field>
+    <custom-field action="ignore">turio_booking_options</custom-field>
+    <custom-field action="ignore">turio_feature_package_options</custom-field>
+    <custom-field action="ignore">turio_criteria_options</custom-field>
+    <custom-field action="ignore">turio_travel_package_breadcrumb</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="turio_theme_options">
+      <key name="tour_package_form_title"/>
+      <key name="top_bar_email_address"/>
+      <key name="top_bar_offer_text"/>
+      <key name="header_layout_options"/>
+      <key name="header_hotline_text"/>
+      <key name="header_hotline_number"/>
+      <key name="header_hotline_text_three"/>
+      <key name="header_hotline_number_three"/>
+      <key name="404_title"/>
+      <key name="404_description"/>
+      <key name="404_button_text"/>
+      <key name="tour_review_load_more_text"/>
+      <key name="tour_review_heading"/>
+      <key name="tour_review_title"/>
+      <key name="tour_criteria">
+        <key name="0">
+          <key name="criteria_item"/>
+        </key>
+        <key name="1">
+          <key name="criteria_item"/>
+        </key>
+        <key name="2">
+          <key name="criteria_item"/>
+        </key>
+        <key name="3">
+          <key name="criteria_item"/>
+        </key>
+        <key name="4">
+          <key name="criteria_item"/>
+        </key>
+      </key>
+    </key>
+  </admin-texts>
+</wpml-config>
